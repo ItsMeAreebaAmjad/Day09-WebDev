@@ -1,0 +1,56 @@
+body{
+    background-color: aliceblue;
+}
+
+div{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+span{
+    color:blueviolet;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.one{
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+.two{
+    margin-top: 30px;
+    margin-left: 50px;
+    display:flex;
+    gap:10px;
+
+}
+
+#btnOne{
+    height:30px;
+    width:150px;
+    background-color: blueviolet;
+    color:white;
+}
+
+#btnOne:hover{
+    background-color: aliceblue;
+    color:black;
+}
+
+#btnTwo{
+    background-color: aliceblue;
+    color:black;
+}
+
+#btnTwo:hover{
+    background-color: blueviolet;
+    color:white;
+}
+
+img{
+    height:500px;
+    width:500px;
+    margin-left: 850px;
+    margin-top:-370px;
+}
